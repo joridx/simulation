@@ -3,7 +3,7 @@ package jordix.similacio.random;
 import java.util.Arrays;
 
 /**
- * Main class to call the RNG and Exponential Distribution
+ * Classe incial que crida a la generació de nombres aleatoris i a la distribució exponencial
  */
 public class App 
 {
