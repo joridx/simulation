@@ -3,17 +3,17 @@ package jordix.similacio.random;
 import java.util.Arrays;
 
 /**
- * Hello world!
- *
+ * Main class to call the RNG and Exponential Distribution
  */
 public class App 
 {
+    //RNG constants
     private static final int SIZE_RANDOMS = 100;
     private static final int INITIAL_SEED = 20873;
     private static final int MULTIPLIER = 17597;
     private static final int ADDITIVE = 7;
     private static final int DIVIDER = 5000;
-
+    //Exponential distribution constant
     private static final double MEAN = 0.5;
 
     public static void main( String[] args )
